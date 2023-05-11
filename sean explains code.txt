@@ -1,0 +1,15 @@
+Hoe werkt de animatie met de kleuren cirkel?
+
+-Basically je kiest een kleur en dat is dan het begin punt van de kleuren cirkel.
+het gaat met de klok mee, dus als ik met blauw begin gaat het daarna naar groen daarna geel daarna oranje.
+maar we hebben code geschreven waardoor het ook weer terug draait. dus met dit:
+
+animation-direction:alternate;
+animation-iteration-count:infinite;
+
+met alternate betekend dus dat het niet meteen stopt na een hele rondje en met infinite gaat het dus terug draaien
+
+
+wat vond ik leuk om te leren?
+
+kleuren animatie
